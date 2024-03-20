@@ -1,4 +1,4 @@
-# Image-Segmentation on MRI dataset
+# U_Net Convolutional NN for medical Image Segmentation
 
 Exploration of the Dataset
 Creation of the Datasets and Dataloader classes
