@@ -30,3 +30,5 @@ The extracted features include:
     subset: This column indicates the subset of the dataset to which each image belongs (e.g., train, valid, test). It's useful for partitioning the data for training, validation, and testing purposes.
 
 ## The UNet Architecture
+
+- The U-Net is designed for semantic segmentation
