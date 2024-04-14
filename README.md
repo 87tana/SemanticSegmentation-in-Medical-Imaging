@@ -2,11 +2,7 @@
 
 ## objective: 
 
-Manually segmenting tumors from MRI scans is an incredibly time-consuming process. However, the utilization of a learning algorithm to automatically segment tumors not only saves radiologists significant time but also provides invaluable input for surgical planning. The algorithm driving this efficiency is none other than UNet, a powerful tool in the realm of medical image segmentation.
-
-
-
-##Objective: Performing segmentation analysis on magnetic resonance images of brain tumours.
+Manual tumour segmentation in MRI scans is time-consuming. However, using a learning algorithm for automatic segmentation not only saves radiologists time, but also improves surgical planning. UNet, the driving force behind this efficiency, is a powerful tool for medical image segmentation.
 
 ## Dataset feature Extraction and DataFrame creation
 Data set https://www.kaggle.com/datasets/awsaf49/brats2020-training-data/data
