@@ -1,6 +1,10 @@
-# U-Net: medical imaging segmentation
+# U-Net: medical imaging segmentation   ## Under construction :)
 
-## Under construction :)
+## objective: 
+
+Manually segmenting tumors from MRI scans is an incredibly time-consuming process. However, the utilization of a learning algorithm to automatically segment tumors not only saves radiologists significant time but also provides invaluable input for surgical planning. The algorithm driving this efficiency is none other than UNet, a powerful tool in the realm of medical image segmentation.
+
+
 
 ##Objective: Performing segmentation analysis on magnetic resonance images of brain tumours.
 
