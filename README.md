@@ -1,4 +1,4 @@
-# U-Net: An effective approach to medical imaging segmentation
+# U-Net: medical imaging segmentation
 
 ## Under construction :)
 
