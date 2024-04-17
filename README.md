@@ -31,4 +31,5 @@ The extracted features include:
 
 ## The UNet Architecture
 
-- The U-Net is designed for semantic segmentation
+U-Net is a type of neural network used to understand images. This shape reflects its method: it starts by simplifying the image, then expands it back out. 
+
