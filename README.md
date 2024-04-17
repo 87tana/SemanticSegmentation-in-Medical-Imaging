@@ -1,8 +1,9 @@
 # U-Net: medical imaging segmentation   ## Under construction :)
 
-## objective: 
+## Introduction: 
 
-Manual tumour segmentation in MRI scans is time-consuming. However, using a learning algorithm for automatic segmentation not only saves radiologists time, but also improves surgical planning. UNet, the driving force behind this efficiency, is a powerful tool for medical image segmentation.
+Here, I have implemented a U-Net to segment tumor in MRI images of brain.
+using a learning algorithm for automatic segmentation not only saves radiologists time, but also improves surgical planning. 
 
 ## Dataset feature Extraction and DataFrame creation
 Data set https://www.kaggle.com/datasets/awsaf49/brats2020-training-data/data
