@@ -31,5 +31,11 @@ The extracted features include:
 
 ## The UNet Architecture
 
-U-Net is a type of neural network used to understand images. This shape reflects its method: it starts by simplifying the image, then expands it back out. 
+U-Net is a convolutional NN architecture widely used for tasks like image segmentation.  The shape reflects its method, This U-shaped structure is characterized by the initial contraction, followed by expansion, mirroring the process of reducing and then gradually restoring the size of the image.
+
+The contracting path involves successive layers of convolutional operations, each followed by a pooling layer. These pooling layers serve to reduce the spatial dimensions (width and height) of the feature maps while increasing their depth, effectively capturing and abstracting features from the input image. This process creates a hierarchical representation of the input, enabling the network to extract increasingly abstract and high-level features.
+
+Following the contracting path, the network enters the expansive path, which consists of upsampling layers. These upsampling layers gradually restore the spatial dimensions of the feature maps while reducing their depth, allowing the network to recover spatial details lost during the contraction stage. Additionally, skip connections are introduced between corresponding layers in the contracting and expansive paths. These skip connections facilitate the flow of information across different scales of abstraction, aiding in the precise localization of objects in the final segmentation mask.
+
+ 
 
