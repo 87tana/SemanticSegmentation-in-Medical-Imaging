@@ -1,18 +1,4 @@
-# U-Net: medical imaging segmentation   ## Under construction :)
-
-## Introduction: 
-
-Here, I have implemented a U-Net to segment tumor in MRI images of brain.
-using a learning algorithm for automatic segmentation not only saves radiologists time, but also improves surgical planning. 
-
-## Dataset feature Extraction and DataFrame creation
-Data set https://www.kaggle.com/datasets/awsaf49/brats2020-training-data/data
-
-This repository include a Python script that facilitates the extraction of important features from JSON files containing annotations and images in a dataset. The extracted features are used to create a structured DataFrame for easier data manipulation and analysis.
-
-Extracted essential information (Features ) needed for tumor segmentation task 
-
-The extracted features include:
+# U-Net: medical imaging segmentation   
 
 ## The UNet Architecture
 
