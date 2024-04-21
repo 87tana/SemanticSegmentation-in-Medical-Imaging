@@ -6,9 +6,7 @@ The TumorSeg Computer Vision Project is dedicated to Semantic Segmentation, whic
 
 Utilizing the powerful [U-Net Convolutional Network](https://arxiv.org/pdf/1505.04597.pdf ) implemented in Pytorch,  our project tackles the challenging task of brain tumor segmentation. Training and testing are conducted on the Google Colab platform, leveraging its GPU capabilities for efficient computation.
 
-The dataset was obtained from [kaggle](https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation), compromise a single class with two category IDs, 1 and 2. Despite this distinction, both categories belong to the same overaching class. 
-
-Here is the distribution of each subset respectively(train, validation and test)
+The dataset was obtained from [kaggle](https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation), compromise a single class with two category IDs, 1 and 2. Despite this distinction, both categories belong to the same class. 
 
 Below are the distributions for each subset—train, validation, and test—respectively: 
 
