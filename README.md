@@ -12,7 +12,7 @@ Here is the distribution of each subset respectively(train, validation and test)
 
 
 <div align="center">
-    <img width="400" src="/images/seg_subset_distribution.png" alt="Material Bread logo"> 
+    <img width="400" src="/Images/seg_subset_distribution.png" alt="Material Bread logo"> 
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
