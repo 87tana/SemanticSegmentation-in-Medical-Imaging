@@ -1,12 +1,14 @@
-# U-Net: medical imaging segmentation 
+# U-Net: segmentation in medical imaging
 
 
-## Overview of the Project:
 <div align="center">
     <img width="600" src= "/Images//U-net_example_wikipedia.png" alt="Material Bread logo">   
     <p   style="text-align: center;"> Photo from Wikipedia </p> 
 </div>
 
+
+
+## Overview of the Project:
 
 
 The TumorSeg Computer Vision Project is dedicated to Semantic Segmentation, which involves classifying every pixel in an image as part of a tumor or non-tumor region. This fine-grained approach provides an accurate understanding of the spatial distribution of tumors within medical images.
