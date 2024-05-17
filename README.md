@@ -1,6 +1,16 @@
 # U-Net: segmentation in medical imaging
 
-## Overview of the Project:
+## Overview:
+
+* Dataset
+
+The dataset was obtained from [kaggle](https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation), compromise a single class with two category IDs, 1 and 2. Despite this distinction, both categories belong to the same class.
+
+* Data Augumentation
+
+* Model Architechture 
+
+* Training Process
 
 In this project, the U-Net architecture was implemented to enhance the segmentation of brain MRI images. Leveraging the computational power of GPUs and utilizing the PyTorch framework, the model training process was significantly accelerated. Various image augmentation techniques were employed to improve the model's robustness and generalizability. Additionally, a systematic approach was adopted to tune hyperparameters, optimizing the model's performance.
 
@@ -17,7 +27,7 @@ The TumorSeg Computer Vision Project is dedicated to Semantic Segmentation, whic
 
 Utilizing the powerful [U-Net Convolutional Network](https://arxiv.org/pdf/1505.04597.pdf ) implemented in Pytorch,  our project tackles the challenging task of brain tumor segmentation. Training and testing are conducted on the Google Colab platform, leveraging its GPU capabilities for efficient computation.
 
-The dataset was obtained from [kaggle](https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation), compromise a single class with two category IDs, 1 and 2. Despite this distinction, both categories belong to the same class. 
+ 
 
 The distributions for each subset train, validation, and test: 
 
