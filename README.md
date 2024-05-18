@@ -13,7 +13,11 @@ The basic forms of data augmentation are used here to diversify the training dat
     Apply random brightness augmentation
     Rotation Between 75°-15°
 
-* ### Model Architechture 
+* ### Model Architechture
+
+<p align="center">
+    <img width="600" src="Images/U-Net_Architecture.png" alt="Material Bread logo">
+</p>
 
 * ### Training Process
 
