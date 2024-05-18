@@ -1,7 +1,5 @@
 # U-Net: segmentation in medical imaging
 
-## Overview:
-
 In this project, the U-Net architecture was implemented to enhance the segmentation of brain MRI images. Leveraging the computational power of GPUs and utilizing the PyTorch framework, the model training process was significantly accelerated. Various image augmentation techniques were employed to improve the model's robustness and generalizability. Additionally, a systematic approach was adopted to tune hyperparameters, optimizing the model's performance.
 
 * ### Dataset
