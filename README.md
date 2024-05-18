@@ -22,26 +22,10 @@ The basic forms of data augmentation are used here to diversify the training dat
 * ### Training Process
 
 
-
-
-<div align="center">
-    <img width="600" src= "/Images//U-net_example_wikipedia.png" alt="Material Bread logo">   
-    <p   style="text-align: center;"> Photo from Wikipedia </p> 
-</div>
-
-
-
-The TumorSeg Computer Vision Project is dedicated to Semantic Segmentation, which involves classifying every pixel in an image as part of a tumor or non-tumor region. This fine-grained approach provides an accurate understanding of the spatial distribution of tumors within medical images.
-
-Utilizing the powerful [U-Net Convolutional Network](https://arxiv.org/pdf/1505.04597.pdf ) implemented in Pytorch,  our project tackles the challenging task of brain tumor segmentation. Training and testing are conducted on the Google Colab platform, leveraging its GPU capabilities for efficient computation.
+[U-Net Convolutional Network](https://arxiv.org/pdf/1505.04597.pdf ) 
 
  
 
-The distributions for each subset train, validation, and test: 
-
-<div align="center">
-    <img width="300" src="/Images/seg_subset_distribution.png" alt="Material Bread logo">   
-</div>
 
 
   
