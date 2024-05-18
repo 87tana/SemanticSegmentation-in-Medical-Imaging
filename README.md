@@ -8,6 +8,11 @@ The dataset was obtained from [kaggle](https://www.kaggle.com/datasets/pkdarabi/
 
 * ### Data Augumentation
 
+The basic forms of data augmentation are used here to diversify the training data. All the augmentation methods are used from Pytorch's Torchvision module.
+
+    Apply random brightness augmentation
+    Rotation Between 75°-15°
+
 * ### Model Architechture 
 
 * ### Training Process
