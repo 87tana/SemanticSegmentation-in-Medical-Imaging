@@ -1,7 +1,7 @@
 # segmentation in medical imaging
 
 <div align="center">
-    <img width="400" src="/Images/Grandtruth.png" alt="Material Bread logo">
+    <img width="700" src="/Images/Grandtruth.png" alt="Material Bread logo">
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
