@@ -17,9 +17,6 @@ The basic forms of data augmentation are used here to diversify the training dat
 
 * ### Experiment with different backbone
 
-<p align="center">
-    <img width="600" src="Images/U-Net_Architecture.png" alt="Material Bread logo">
-</p>
 
 * ### Training Process and Validation loss
   
@@ -29,7 +26,10 @@ The basic forms of data augmentation are used here to diversify the training dat
 </div>
 
 
+* ### References
+
 [U-Net Convolutional Network](https://arxiv.org/pdf/1505.04597.pdf ) 
+[DeepLabv3 ](file:///home/lingolution/Downloads/Fully_automatic_brain_tumor_segmentation_using_DeepLabv3_with_variable_loss_functions.pdf) 
 
  
 
