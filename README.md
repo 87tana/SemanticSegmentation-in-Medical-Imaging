@@ -29,7 +29,8 @@ The basic forms of data augmentation are used here to diversify the training dat
 * ### References
 
 [U-Net Convolutional Network](https://arxiv.org/pdf/1505.04597.pdf ) 
-[DeepLabv3 ](file:///home/lingolution/Downloads/Fully_automatic_brain_tumor_segmentation_using_DeepLabv3_with_variable_loss_functions.pdf) 
+
+[DeepLabv3](https://arxiv.org/pdf/1706.05587) 
 
  
 
