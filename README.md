@@ -1,11 +1,9 @@
 # segmentation in medical imaging
+<div align="center">
+    <img width="700" src="/images/GrandTruth.png" alt="Material Bread logo">
+    <p style="text-align: center;">Photo created by autor</p> 
+</div>
 
-
-* ### Model Architechture
-
-<p align="center">
-    <img width="300" src="Images/GrandTruth.png" alt="Material Bread logo">
-</p>
 
 In this project, the U-Net architecture was implemented to enhance the segmentation of brain MRI images. Leveraging the computational power of GPUs and utilizing the PyTorch framework, the model training process was significantly accelerated. Various image augmentation techniques were employed to improve the model's robustness and generalizability. Additionally, a systematic approach was adopted to tune hyperparameters, optimizing the model's performance.
 
