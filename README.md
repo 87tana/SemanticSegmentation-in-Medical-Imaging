@@ -5,6 +5,9 @@
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
+* ### Overview
+
+This repository contains the code and results for a series of experiments conducted to identify the optimal configuration for semantic segmentation tasks. The experiments involve various configurations of deep learning models, focusing on performance metrics such as Intersection over Union (IoU), Accuracy (ACC), Dice coefficient, Precision (Prec), and Recall.
 
 * ### Dataset
 
