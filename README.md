@@ -24,7 +24,7 @@ The basic forms of data augmentation are used here to diversify the training dat
 * ### Training Process and Validation loss
   
 <div align="center">
-    <img width="700" src="/Plots/Exp18.png" alt="Material Bread logo">
+    <img width="700" src="/Plots/Exp25.png" alt="Material Bread logo">
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
