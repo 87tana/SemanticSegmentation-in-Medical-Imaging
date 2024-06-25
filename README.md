@@ -16,23 +16,23 @@ The dataset was obtained from [kaggle](https://www.kaggle.com/datasets/pkdarabi/
 * ### Data Augumentation
 
 The basic forms of data augmentation are used here to diversify the training data. All the augmentation methods are used from Pytorch's Torchvision module.
-* ### Loss Function
 
-* ### Experiment with different backbone
-
-
-* ### Training Process and Validation loss
+* ### Model Training
+ 
+* ### Model Evaluation:
   
 <div align="center">
     <img width="700" src="/Plots/Exp25.png" alt="Material Bread logo">
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
+* ### Conclusion and Future work:
+  
+
 
 * ### References
 
 [U-Net Convolutional Network](https://arxiv.org/pdf/1505.04597.pdf ) 
-
 [DeepLabv3](https://arxiv.org/pdf/1706.05587) 
 
  
