@@ -13,6 +13,11 @@ The dataset, sourced from [kaggle](https://www.kaggle.com/datasets/pkdarabi/brai
 ### Results
 
 
+<div align="center">
+    <img width="800" src="/Images/final.png" alt="Material Bread logo">
+    <p style="text-align: center;">Figure 1: CNN architecture for brain tumor segmentation task. Created by author.</p>   
+</div>
+
   
 
 
