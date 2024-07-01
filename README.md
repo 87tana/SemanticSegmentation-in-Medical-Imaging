@@ -1,6 +1,14 @@
 # Segmentation in Medical Imaging
 
 <div align="center">
+    <img width="800" src="/Images/ResNet-18 Segmentation Network.png" alt="Material Bread logo">
+    <p style="text-align: center;">Figure 1: CNN architecture for brain tumor segmentation task. Created by author.</p>   
+</div>
+
+
+
+
+<div align="center">
     <img width="800" src="/Images/ec_cnn_mri.png" alt="Material Bread logo">
     <p style="text-align: center;">Figure 1: CNN architecture for brain tumor segmentation task. Created by author.</p>   
 </div>
