@@ -16,6 +16,11 @@ In this study, we explore the effectiveness of deep learning techniques for imag
     <p style="text-align: center;">Figure 2: CNN architecture for brain tumor segmentation task. Created by author.</p>   
 </div>
 
+
+### Experiments
+
+To study the effects of network structure on segmentation results, I conducted ablation studies on different parts of my base network (see Figure 1). All experiments were performed on Google Colab with GPU acceleration, and the learning rate was adjusted based on the learning curve of each experiment.
+
 ### Dataset
 
 The dataset, sourced from [kaggle](https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation), consists of 2146 images with tumors annotated in COCO Segmentation format. It's part of the TumorSeg Computer Vision Project, which focuses on Semantic Segmentation and aims to accurately identify tumor regions within Medical Images using advanced techniques
