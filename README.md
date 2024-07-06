@@ -17,9 +17,11 @@ In this study, we explore the effectiveness of deep learning techniques for imag
 </div>
 
 
-### Experiments
+Experiments
 
 To study the effects of network structure on segmentation results, I conducted ablation studies on different parts of my base network (see Figure 1). All experiments were performed on Google Colab with GPU acceleration, and the learning rate was adjusted based on the learning curve of each experiment.
+
+I used standard metrics such as IoU, Dice, precision, and recall to evaluate the performance of each model. For an explanation of these metrics, please refer to this Medium article. I use a threshold of 0.5 to generate the prediction masks from the probability maps.
 
 ### Dataset
 
