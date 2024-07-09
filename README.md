@@ -27,6 +27,11 @@ I used standard metrics such as IoU, Dice, precision, and recall to evaluate the
 
 The dataset, sourced from [kaggle](https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation), consists of 2146 images with tumors annotated in COCO Segmentation format. It's part of the TumorSeg Computer Vision Project, which focuses on Semantic Segmentation and aims to accurately identify tumor regions within Medical Images using advanced techniques
 
+### Final experiment
+
+In the final experiment, I incorporated the findings from the previous ablation studies. I used the baseline model with dilated convolutions as explained earlier, applied the BCE loss function, and randomly applied augmentation to 50% of the samples. Table 5 shows the segmentation results on the validation and test sets. Compared to Table 4, the test results show a significant improvement over the previous experiments.
+
+
 
 ### Results
 
@@ -41,6 +46,8 @@ The dataset, sourced from [kaggle](https://www.kaggle.com/datasets/pkdarabi/brai
     <img width="800" src="/Images/table.png" alt="Material Bread logo">
     <p style="text-align: center;">Figure 4: CNN architecture for brain tumor segmentation task. Created by author.</p>   
 </div>
+
+
   
 
 
