@@ -1,4 +1,4 @@
-# Segmentation in Medical Imaging
+# Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study
 
 ### Studied segmentation network
 
