@@ -12,7 +12,7 @@ This repository hosts the source code and resources for the project [Exploring C
 The project focuses on evaluating different configurations of an encoder-decoder convolutional neural network (CNN) to identify the most effective techniques for tumor segmentation using 2D MRI brain tumor images.
 
 <div align="center">
-    <img width="800" src="/Images/ec_cnn_mri.png" alt="Material Bread logo">
+    <img width="700" src="/Images/ec_cnn_mri.png" alt="Material Bread logo">
     <p style="text-align: center;">Figure 2: CNN architecture for brain tumor segmentation task. Created by author.</p>   
 </div>
 
