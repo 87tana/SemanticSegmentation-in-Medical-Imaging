@@ -1,15 +1,15 @@
 # Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study
 
-This repository hosts the source code and resources for the project "Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study". The project focuses on evaluating different configurations of an encoder-decoder convolutional neural network (CNN) to identify the most effective techniques for tumor segmentation using 2D MRI brain tumor images.
+This repository hosts the source code and resources for the project [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://medium.com/@t.mostafid/exploring-cnn-components-for-tumor-segmentation-in-mri-images-an-ablation-study-d79cdfd25083). 
 
 <div align="center">
-    <img width="800" src="/Images/ResNet-18 Segmentation Network.png" alt="Material Bread logo">
+    <img width="700" src="/Images/ResNet-18 Segmentation Network.png" alt="Material Bread logo">
     <p style="text-align: center;">Figure 1: Proposed segmentation network,Created by author.</p>   
 </div>
 
 ### Aim of study
 
-In this study, we explore the effectiveness of deep learning techniques for image semantic segmentation, focusing on their practical impact on a specialized dataset. We utilized several prominent neural network architectures as encoders, including ResNet-18, ResNet-34, ResNet-50, and VGG16, to assess the influence of network depth on segmentation accuracy. To optimize the decoding process, we varied the number of up-sampling layers and increased the complexity of our models by adding additional convolutional layers within the decoder structures, aiming to enhance the model's ability to reconstruct detailed segmentation maps from feature compressions.
+The project focuses on evaluating different configurations of an encoder-decoder convolutional neural network (CNN) to identify the most effective techniques for tumor segmentation using 2D MRI brain tumor images.
 
 <div align="center">
     <img width="800" src="/Images/ec_cnn_mri.png" alt="Material Bread logo">
