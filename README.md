@@ -22,9 +22,11 @@ The project focuses on evaluating different configurations of an encoder-decoder
 
 **ResNet-18** showed better performance compared to VGG-16.
     
-    **Binary Cross Entropy** achieved slightly better training results than the Dice coefficient.
-    Incorporation of **dilated convolutions** in the decoder significantly enhanced segmentation accuracy.
-    **Data augmentation** was used to increase the model's robustness and generalizability.
+**Binary Cross Entropy** achieved slightly better training results than the Dice coefficient.
+
+Incorporation of **dilated convolutions** in the decoder significantly enhanced segmentation accuracy.
+
+**Data augmentation** was used to increase the model's robustness and generalizability.
 
 
 ### Experiments
