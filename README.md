@@ -18,7 +18,7 @@ The project focuses on evaluating different configurations of an encoder-decoder
 
 
 
-Highlights:
+#### Highlights:
 
     ResNet-18 showed better performance compared to VGG-16.
     Binary Cross Entropy achieved slightly better training results than the Dice coefficient.
