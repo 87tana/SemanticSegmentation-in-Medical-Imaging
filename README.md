@@ -7,6 +7,10 @@ This repository hosts the source code and resources for the project [Exploring C
     <p style="text-align: center;">Figure 1: Proposed segmentation network,Created by author.</p>   
 </div>
 
+### Dataset
+
+The dataset, sourced from [kaggle](https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation), consists of 2146 images with tumors annotated in COCO Segmentation format. It's part of the TumorSeg Computer Vision Project, which focuses on Semantic Segmentation and aims to accurately identify tumor regions within Medical Images using advanced techniques
+
 ### Aim of study
 
 The project focuses on evaluating different configurations of an encoder-decoder convolutional neural network (CNN) to identify the most effective techniques for tumor segmentation using 2D MRI brain tumor images.
@@ -35,9 +39,6 @@ To study the effects of network structure on segmentation results, I conducted a
 
 I used standard metrics such as IoU, Dice, precision, and recall to evaluate the performance of each model. For an explanation of these metrics, please refer to this Medium article. I use a threshold of 0.5 to generate the prediction masks from the probability maps.
 
-### Dataset
-
-The dataset, sourced from [kaggle](https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation), consists of 2146 images with tumors annotated in COCO Segmentation format. It's part of the TumorSeg Computer Vision Project, which focuses on Semantic Segmentation and aims to accurately identify tumor regions within Medical Images using advanced techniques
 
 ### Final experiment
 
