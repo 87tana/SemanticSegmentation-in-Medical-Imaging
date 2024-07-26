@@ -63,6 +63,8 @@ In the final experiment, I incorporated the findings from the previous ablation 
 
 ### Conclusion
 
+In this study, I proposed an encoder-decoder CNN for tumor semantic segmentation and studied the impacts of different network components on its performance. Based on my findings, I suggest a configuration that achieves an IoU of 0.51 and Dice of 0.63 on the test set.
+
   
 
 
