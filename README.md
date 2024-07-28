@@ -22,17 +22,6 @@ The project focuses on evaluating different configurations of an encoder-decoder
 
 
 
-#### Highlights:
-
-**ResNet-18** showed better performance compared to VGG-16.
-    
-**Binary Cross Entropy** achieved slightly better training results than the Dice coefficient.
-
-Incorporation of **dilated convolutions** in the decoder significantly enhanced segmentation accuracy.
-
-**Data augmentation** was used to increase the model's robustness and generalizability.
-
-
 ### Experiments
 
 To study the effects of network structure on segmentation results, I conducted ablation studies on different parts of my base network (see Figure 1). All experiments were performed on Google Colab with GPU acceleration, and the learning rate was adjusted based on the learning curve of each experiment.
@@ -59,6 +48,17 @@ In the final experiment, I incorporated the findings from the previous ablation 
     <img width="800" src="/Images/table.png" alt="Material Bread logo">
     <p style="text-align: center;">Figure 4: CNN architecture for brain tumor segmentation task. Created by author.</p>   
 </div>
+
+
+#### Highlights:
+
+**ResNet-18** showed better performance compared to VGG-16.
+    
+**Binary Cross Entropy** achieved slightly better training results than the Dice coefficient.
+
+Incorporation of **dilated convolutions** in the decoder significantly enhanced segmentation accuracy.
+
+**Data augmentation** was used to increase the model's robustness and generalizability.
 
 
 ### Conclusion
