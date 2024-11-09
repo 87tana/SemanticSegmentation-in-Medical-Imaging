@@ -50,7 +50,7 @@ In the final experiment, I incorporated the findings from the previous ablation 
 </div>
 
 
-#### Highlights:
+### Highlights:
 
 **ResNet-18** showed better performance compared to VGG-16.
     
